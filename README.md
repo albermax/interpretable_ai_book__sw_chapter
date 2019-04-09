@@ -1,4 +1,4 @@
-# [Interpretable ai_book__sw_chapter]()
+# ["Software and application patterns for explanation methods"]()
 The code snippets for the chapter ["Software and application patterns for explanation methods"]() of the ["Interpretable AI" book]().
 
 Please use the setup script to install the notebooks and run them.
