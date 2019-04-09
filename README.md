@@ -1,12 +1,10 @@
-# interpretable_ai_book__sw_chapter
-The code snippets for the SW chapter of the "Interpretable AI" book.
+# [Interpretable ai_book__sw_chapter]()
+The code snippets for the chapter ["Software and application patterns for explanation methods"]() of the ["Interpretable AI" book]().
 
-* script to setup repo / install
+Please use the setup script to install the notebooks and run them.
 
-* method implementations
-* lime tests
-* background scripts and ipynb
-* comparison of methods [easy]
-* comparison of networks [easy]
-* mnist example [easy]
-* linearization 
+* [Section 2](https://github.com/albermax/interpretable_ai_book__sw_chapter/blob/master/notebooks/implementations.ipynb)
+* [Section 3.1](https://github.com/albermax/interpretable_ai_book__sw_chapter/blob/master/notebooks/mnist_missprediction.ipynb)
+* [Section 3.2](https://github.com/albermax/interpretable_ai_book__sw_chapter/blob/master/notebooks/imagenet_compare_methods.ipynb)
+* [Section 3.3](https://github.com/albermax/interpretable_ai_book__sw_chapter/blob/master/notebooks/imagenet_compare_networks.ipynb)
+* [Section 3.4](https://github.com/albermax/interpretable_ai_book__sw_chapter/blob/master/notebooks/imagenet_focus_on_background.ipynb)
