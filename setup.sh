@@ -6,7 +6,7 @@ pip install --upgrade pip
 # load the version the notebooks have been developed with.
 git clone https://github.com/albermax/innvestigate.git
 cd innvestigate/
-git checkout tag/sw_chapter_snapshot
+git checkout tags/sw_chapter_snapshot -b sw_chapter
 
 # Install the repo
 python setup.py install
