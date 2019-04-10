@@ -1,5 +1,5 @@
-# ["Software and application patterns for explanation methods"]()
-The code snippets for the chapter ["Software and application patterns for explanation methods"]() of the ["Interpretable AI" book]().
+# ["Software and application patterns for explanation methods"](https://arxiv.org/abs/1904.04734)
+The code snippets for the chapter ["Software and application patterns for explanation methods"](https://arxiv.org/abs/1904.04734) of the ["Interpretable AI" book]().
 
 Please use the setup script to install the notebooks and run them.
 
